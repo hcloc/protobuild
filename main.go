@@ -1,4 +1,4 @@
-package protobuild
+package main
 
 import (
 	"bytes"
